@@ -1,46 +1,48 @@
-# LoRa SX1278 Driver and STM32 Example
+# Meriem Amara's Portfolio
 
-## Overview
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/meriem-amara)
+[![Email](https://img.shields.io/badge/Email-amara.merieem%40gmail.com-informational)](mailto:amara.merieem@gmail.com)
 
-This repository contains a driver for the SX1278 LoRa module and an STM32 example project demonstrating its use. The driver includes `lora.h` and `lora.c` files, which provide functions for configuring and interfacing with the LoRa module. The STM32 project shows how to integrate this driver into a practical application.
+**Phone:** +216 52 228 030
+
+---
+
+## 👋 About Me
+Hi, I'm Meriem Amara, an Embedded Systems Engineer with a keen interest in Robotics. I have hands-on experience with C, Python, and STM32 microcontrollers, and I'm skilled in developing and optimizing embedded systems. My work spans from creating communication drivers for mobile robots to developing sophisticated navigation algorithms. I thrive on tackling complex problems and enjoy working on innovative projects that push the boundaries of technology.
+
+## 🚀 Projects
+
+### LoRa SX1278 Driver
+- **Description:** Developed a driver for the SX1278 LoRa module, including `lora.h` and `lora.c` files. The driver is used for configuring and interfacing with the LoRa module in various applications.
+- **Application:** Integrated into an STM32 project demonstrating communication capabilities with the SX1278 module.
+
+### EUROBOT - International Robotics Competition (2022-2023)
+- **Role:** Team Leader  
+  Led a team in the international EUROBOT competition, focusing on autonomous robot navigation and control.
+
+### Line Follower Robots (2021-2022)
+- Designed and participated in competitions with line follower robots using STM32 MCU and sensors.
+
+## 🎓 Education
+**National Engineering Diploma in Embedded Systems**  
+INSAT - National Institute of Applied Science and Technology  
+
+## 🧑‍💻 Skills
+- **Programming Languages:** C/C++, Embedded C, Python, Bash Scripting
+- **Software Tools:** STM32 Cube, Anaconda, SolidWorks, Cura Slicer, MATLAB, Simulink, ClickUp, Notion
+- **Technologies:** Robotics, ROS, ARM Architecture, Embedded Linux, Git, LoRa, IoT, Computer Vision, 3D Design, 3D Printing
+- **Hardware Protocols:** UART, SPI, I2C, I2S, CAN
 
 
-## LoRa Driver
+## 🌟 Achievements
+- **Mediation Award:** EUROBOT 2023
+- **1st Place:** National Robotics Competitions (2022)
+- **2nd Place:** National Design Competition (NDC 2024)
 
-### `lora.h`
+## 🤝 Contact
+Feel free to reach out to me via email at [amara.merieem@gmail.com](mailto:amara.merieem@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/meriem-amara).
 
-Header file defining registers, modes, and functions for interacting with the SX1278 module.
+---
 
-**Key Definitions:**
-- Registers: `RegFifo`, `RegOpMode`, `RegPaConfig`, etc.
-- Modes: `SleepMode`, `LoraMode`, `StdbyMode`, etc.
-- Configuration: `Config1`, `Config2`, `Config3`, etc.
+Thank you for visiting my portfolio!
 
-**Functions:**
-- `void Lora_vInit();`  
-  Initialize the LoRa module.
-
-- `void Lora_vWriteReg(uint8_t regAdress, uint8_t data);`  
-  Write data to a specified register.
-
-- `uint8_t Lora_u8ReadReg(uint8_t regAdress);`  
-  Read data from a specified register.
-
-- `Lora_RxStates_ten Lora_tenRxMode(uint8_t* RxBuffer, uint8_t payloadLength);`  
-  Configure and enter receive mode.
-
-- `Lora_TxStates_ten Lora_tenTxMode(uint8_t* TxBuffer, uint8_t payloadLength);`  
-  Configure and enter transmit mode.
-
-### `lora.c`
-
-Source file implementing the functions declared in `lora.h`, providing the necessary functionality to interact with the SX1278 module.
-
-## STM32 Example Project
-
-The STM32 example project demonstrates how to integrate the LoRa driver into a complete application. It includes configuration files, initialization routines, and an example of a ping pong application of sending and receiving data using the SX1278 module.
-
-**Key Files:**
-- `main.c`: Contains the main application code where the LoRa driver is used.
-
-For any questions or issues, feel free to contact me at amara.merieem@gmail.com.
