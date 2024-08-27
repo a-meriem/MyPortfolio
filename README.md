@@ -16,12 +16,10 @@ Hi, I'm Meriem Amara, an Embedded Systems Engineer with a keen interest in Robot
 - **Description:** Developed a driver for the SX1278 LoRa module, including `lora.h` and `lora.c` files. The driver is used for configuring and interfacing with the LoRa module in various applications.
 - **Application:** Integrated into an STM32 project demonstrating communication capabilities with the SX1278 module.
 
-### EUROBOT - International Robotics Competition (2022-2023)
-- **Role:** Team Leader  
-  Led a team in the international EUROBOT competition, focusing on autonomous robot navigation and control.
-
-### Line Follower Robots (2021-2022)
-- Designed and participated in competitions with line follower robots using STM32 MCU and sensors.
+### EUROBOT Navigation System
+- **Description:** Developed a sophisticated navigation system for a differential wheeled robot, capable of moving from any point A to a point B with less than 1 millimeter of error on the X and Y axis. This project involved 10 months of continuous design, improvement, optimization, and testing on a real robot. The system utilizes state machines and PID controllers for precise navigation.
+- **Components:** Includes source and header files for the navigation algorithms, along with a full implementation example for STM32. The project also features a detailed README on configuration and usage.
+- **Application:** Demonstrated high-precision navigation in competitive robotics environments.
 
 ## 🎓 Education
 **National Engineering Diploma in Embedded Systems**  
