@@ -10,7 +10,6 @@
 ## 👋 About Me
 Hi, I'm Meriem Amara, an Embedded Systems Engineer with a keen interest in Robotics. I have hands-on experience with C, Python, and STM32 microcontrollers, and I'm skilled in developing and optimizing embedded systems. My work spans from creating communication drivers for mobile robots to developing sophisticated navigation algorithms. I thrive on tackling complex problems and enjoy working on innovative projects that push the boundaries of technology.
 
-
 ## 🎓 Education
 **National Engineering Diploma in Embedded Systems**  
 INSAT - National Institute of Applied Science and Technology  
@@ -22,6 +21,10 @@ INSAT - National Institute of Applied Science and Technology
 - **Hardware Protocols:** UART, SPI, I2C, I2S, CAN
 
 ## 🚀 Projects
+
+### LoRa SX1278 Driver
+- **Description:** Developed a driver for the SX1278 LoRa module, including `lora.h` and `lora.c` files. The driver is used for configuring and interfacing with the LoRa module in various applications.
+- **Application:** Integrated into an STM32 project demonstrating communication capabilities with the SX1278 module.
 
 ### EUROBOT - International Robotics Competition (2022-2023)
 - **Role:** Team Leader  
