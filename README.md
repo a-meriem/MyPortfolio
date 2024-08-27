@@ -8,7 +8,7 @@
 ---
 
 ## 👋 About Me
-I am Meriem Amara, an Embedded Systems Engineering student passionate about Robotics. I am always eager to learn and stay updated with the latest trends in these fields, aiming to solve real-world problems through embedded systems.
+Hi, I'm Meriem Amara, an Embedded Systems Engineer with a keen interest in Robotics. I have hands-on experience with C, Python, and STM32 microcontrollers, and I'm skilled in developing and optimizing embedded systems. My work spans from creating communication drivers for mobile robots to developing sophisticated navigation algorithms. I thrive on tackling complex problems and enjoy working on innovative projects that push the boundaries of technology.
 
 
 ## 🎓 Education
@@ -17,7 +17,7 @@ INSAT - National Institute of Applied Science and Technology
 
 ## 🧑‍💻 Skills
 - **Programming Languages:** C/C++, Embedded C, Python, Bash Scripting
-- **Software Tools:** STM32 Cube, Anaconda, SolidWorks, Cura Slicer, MATLAB, Simulink, ClickUp
+- **Software Tools:** STM32 Cube, Anaconda, SolidWorks, Cura Slicer, MATLAB, Simulink, ClickUp, Notion
 - **Technologies:** Robotics, ROS, ARM Architecture, Embedded Linux, Git, LoRa, IoT, Computer Vision, 3D Design, 3D Printing
 - **Hardware Protocols:** UART, SPI, I2C, I2S, CAN
 
