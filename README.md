@@ -1,6 +1,6 @@
 # Meriem Amara's Portfolio
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/(https://linkedin.com/in/meriem-amara))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/meriem-amara)
 [![Email](https://img.shields.io/badge/Email-amara.merieem%40gmail.com-informational)](mailto:amara.merieem@gmail.com)
 
 **Phone:** +216 52 228 030
@@ -37,7 +37,7 @@ INSAT - National Institute of Applied Science and Technology
 - **2nd Place:** National Design Competition (NDC 2024)
 
 ## 🤝 Contact
-Feel free to reach out to me via email at [amara.merieem@gmail.com](mailto:amara.merieem@gmail.com) or connect with me on [LinkedIn]((https://linkedin.com/in/meriem-amara)).
+Feel free to reach out to me via email at [amara.merieem@gmail.com](mailto:amara.merieem@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/meriem-amara).
 
 ---
 
