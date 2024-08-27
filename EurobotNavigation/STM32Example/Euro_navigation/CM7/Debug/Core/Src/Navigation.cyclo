@@ -1,0 +1,12 @@
+Navigation.c:190:6:Nav_vNavigatorInit	1
+Navigation.c:219:6:Nav_TrapezeLinearVelocity2	18
+Navigation.c:339:6:Nav_TrapezeReverseLinearVelocity2	18
+Navigation.c:457:6:Nav_TrapezeAngularVelocity2	19
+Navigation.c:574:6:Nav_TrapezeReverseAngularVelocity2	19
+Navigation.c:694:6:Nav_vTargetDistanceCalculationRoutine	1
+Navigation.c:700:6:Nav_vTargetAngleCalculationRoutine	1
+Navigation.c:708:6:Nav_vSaturateRemainingAngle	5
+Navigation.c:724:6:Nav_vCurrentTargetAngleFollower	3
+Navigation.c:742:6:Nav_vWallAlign	11
+Navigation.c:857:6:Nav_vTestPathStateMachine	14
+Navigation.c:956:6:Nav_Navigator_StateMachine	11

@@ -1,0 +1,6 @@
+NavRoutineFunctions.c:146:6:Nav_vNavigationRoutine	1
+NavRoutineFunctions.c:156:6:Nav_vFeedbackRoutine	4
+NavRoutineFunctions.c:216:6:Nav_vPidDistance	1
+NavRoutineFunctions.c:228:6:Nav_vPidAngle	1
+NavRoutineFunctions.c:241:6:Nav_vCalculateMotorsCommand	15
+NavRoutineFunctions.c:323:6:Nav_vMotorsRoutine	5

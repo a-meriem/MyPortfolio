@@ -1,0 +1,6 @@
+../Core/Src/NavRoutineFunctions.c:146:6:Nav_vNavigationRoutine	8	static
+../Core/Src/NavRoutineFunctions.c:156:6:Nav_vFeedbackRoutine	16	static
+../Core/Src/NavRoutineFunctions.c:216:6:Nav_vPidDistance	4	static
+../Core/Src/NavRoutineFunctions.c:228:6:Nav_vPidAngle	4	static
+../Core/Src/NavRoutineFunctions.c:241:6:Nav_vCalculateMotorsCommand	4	static
+../Core/Src/NavRoutineFunctions.c:323:6:Nav_vMotorsRoutine	4	static

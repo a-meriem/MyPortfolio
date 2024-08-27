@@ -1,0 +1,12 @@
+../Core/Src/Navigation.c:190:6:Nav_vNavigatorInit	4	static
+../Core/Src/Navigation.c:219:6:Nav_TrapezeLinearVelocity2	4	static
+../Core/Src/Navigation.c:339:6:Nav_TrapezeReverseLinearVelocity2	4	static
+../Core/Src/Navigation.c:457:6:Nav_TrapezeAngularVelocity2	4	static
+../Core/Src/Navigation.c:574:6:Nav_TrapezeReverseAngularVelocity2	4	static
+../Core/Src/Navigation.c:694:6:Nav_vTargetDistanceCalculationRoutine	4	static
+../Core/Src/Navigation.c:700:6:Nav_vTargetAngleCalculationRoutine	4	static
+../Core/Src/Navigation.c:708:6:Nav_vSaturateRemainingAngle	4	static
+../Core/Src/Navigation.c:724:6:Nav_vCurrentTargetAngleFollower	4	static
+../Core/Src/Navigation.c:742:6:Nav_vWallAlign	8	static
+../Core/Src/Navigation.c:857:6:Nav_vTestPathStateMachine	8	static
+../Core/Src/Navigation.c:956:6:Nav_Navigator_StateMachine	8	static
