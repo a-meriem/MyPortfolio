@@ -1,0 +1,16 @@
+../Core/Src/Lora.c:32:6:Lora_vSetNSS	16	static
+../Core/Src/Lora.c:42:6:Lora_vInit	8	static
+../Core/Src/Lora.c:52:6:Lora_vReset	8	static
+../Core/Src/Lora.c:65:6:Lora_WaitForTx	4	static
+../Core/Src/Lora.c:73:6:Lora_WaitForRx	4	static
+../Core/Src/Lora.c:89:6:Lora_vWriteReg	24	static
+../Core/Src/Lora.c:115:9:Lora_u8ReadReg	24	static
+../Core/Src/Lora.c:154:6:Lora_vWriteFifo	24	static
+../Core/Src/Lora.c:173:6:Lora_vReadFifo	16	static
+../Core/Src/Lora.c:192:9:Lora_u8GetDIO0	8	static
+../Core/Src/Lora.c:200:6:Lora_vConfig	8	static
+../Core/Src/Lora.c:233:6:Lora_clearIrq	8	static
+../Core/Src/Lora.c:242:6:Lora_vRxConfig	24	static
+../Core/Src/Lora.c:261:6:Lora_vTxConfig	24	static
+../Core/Src/Lora.c:281:19:Lora_tenRxMode	24	static
+../Core/Src/Lora.c:356:19:Lora_tenTxMode	16	static
