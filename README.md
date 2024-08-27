@@ -10,16 +10,6 @@
 ## 👋 About Me
 Hi, I'm Meriem Amara, an Embedded Systems Engineer with a keen interest in Robotics. I have hands-on experience with C, Python, and STM32 microcontrollers, and I'm skilled in developing and optimizing embedded systems. My work spans from creating communication drivers for mobile robots to developing sophisticated navigation algorithms. I thrive on tackling complex problems and enjoy working on innovative projects that push the boundaries of technology.
 
-## 🎓 Education
-**National Engineering Diploma in Embedded Systems**  
-INSAT - National Institute of Applied Science and Technology  
-
-## 🧑‍💻 Skills
-- **Programming Languages:** C/C++, Embedded C, Python, Bash Scripting
-- **Software Tools:** STM32 Cube, Anaconda, SolidWorks, Cura Slicer, MATLAB, Simulink, ClickUp, Notion
-- **Technologies:** Robotics, ROS, ARM Architecture, Embedded Linux, Git, LoRa, IoT, Computer Vision, 3D Design, 3D Printing
-- **Hardware Protocols:** UART, SPI, I2C, I2S, CAN
-
 ## 🚀 Projects
 
 ### LoRa SX1278 Driver
@@ -32,6 +22,16 @@ INSAT - National Institute of Applied Science and Technology
 
 ### Line Follower Robots (2021-2022)
 - Designed and participated in competitions with line follower robots using STM32 MCU and sensors.
+
+## 🎓 Education
+**National Engineering Diploma in Embedded Systems**  
+INSAT - National Institute of Applied Science and Technology  
+
+## 🧑‍💻 Skills
+- **Programming Languages:** C/C++, Embedded C, Python, Bash Scripting
+- **Software Tools:** STM32 Cube, Anaconda, SolidWorks, Cura Slicer, MATLAB, Simulink, ClickUp, Notion
+- **Technologies:** Robotics, ROS, ARM Architecture, Embedded Linux, Git, LoRa, IoT, Computer Vision, 3D Design, 3D Printing
+- **Hardware Protocols:** UART, SPI, I2C, I2S, CAN
 
 
 ## 🌟 Achievements
